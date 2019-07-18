@@ -1,0 +1,51 @@
+body {
+    font-family: Arial;
+    border-top: solid 4px black;
+    border-bottom: solid 4px black;
+    padding: 50px;
+    padding-top: 20px;
+    margin: 30px;
+}
+
+nav {
+    text-align: center;
+    margin-top: 20px;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+strong{
+    font-style: italic;
+}
+
+hr {
+    border-top: 1px solid black;
+    margin: 30px 0
+}
+
+h3 {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+p {
+    font-family: Georgia;
+    margin-bottom: 30px;
+    line-height: 1.5;
+}
+
+img {
+    float: right;
+    border: solid 1px black;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    padding: 5px;
+}
+
+a {
+    font-weight: bold;
+    color: black;
+}
